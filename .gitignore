@@ -1,2 +1,8 @@
 # répertoire target
+.classpath
+#
+.project
+#
 target/
+#
+.settings/
